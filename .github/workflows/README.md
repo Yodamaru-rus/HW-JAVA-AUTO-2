@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/aeidgh4gwb4j6yx1/branch/main?svg=true)](https://ci.appveyor.com/project/Yodamaru-rus/hw-java-auto-2/branch/main)
